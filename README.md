@@ -1,5 +1,7 @@
 
-# INBOUND Project
+# B2C Project
+
+##Inbound
 
 ## Project Overview
 This project is a Python application with several key components, each responsible for different functionalities. The main aspects include user authentication, database operations, a graphical user interface (GUI), and background scanning tasks. There are three folders representing different parts of the return flow: Inbound, Quality Check, and Admin. Note that the admin part of the programs and connection credentials are not included.
