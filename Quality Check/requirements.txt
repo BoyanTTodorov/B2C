@@ -1,0 +1,5 @@
+ttkbootstrap
+urllib3
+Pillow
+pyodbc
+keyboard
